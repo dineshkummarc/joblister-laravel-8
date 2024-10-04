@@ -33,7 +33,6 @@ border="0" /></a>
 ### Admin Dashboard
 <a href="https://i.ibb.co/mD4961P/Screenshot-79.png"><img src="https://i.ibb.co/mD4961P/Screenshot-79.png" alt="Screenshot-46" border="0" /></a>
 <br />
-
 </p>
 
 ## Installations
@@ -81,4 +80,3 @@ border="0" /></a>
 ## 5. Serve application
 
 > ~php artisan serve <br />
-
